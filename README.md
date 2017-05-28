@@ -6,3 +6,10 @@ The below command will install newest version of the typings
 ```bash
 typings install electron-settings=github:legion44/typed-electron-settings --global --save
 ```
+or, you can use npm
+```bash
+npm install --save-dev legion44/typed-electron-settings
+```
+
+## License
+MIT
