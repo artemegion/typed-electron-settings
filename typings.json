@@ -1,4 +1,5 @@
 {
     "name": "electron-settings",
-    "main": "index.d.ts"
+    "main": "index.d.ts",
+    "version": "3.0.14"
 }

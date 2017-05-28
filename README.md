@@ -2,7 +2,7 @@
 Typings are based on the [documentation](https://github.com/nathanbuchar/electron-settings/wiki/API-documentation).
 
 # How to install
-The below command will install newest version of the typings.
+The below command will install newest version of the typings
 ```bash
-typings install electron-settings=github:legion44/electron-settings-typings/index.d.ts --global --save
+typings install electron-settings=github:legion44/typed-electron-settings --global --save
 ```
